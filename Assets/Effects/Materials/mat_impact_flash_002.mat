@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: mat_impact_flash_002
+  m_Shader: {fileID: -6465566751694194690, guid: 7a3d851aab2538746aa7d48cdcf877f0,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_C7277F1E:
+        m_Texture: {fileID: 2800000, guid: 0c16039d99caf6a48a9d5356c40d6364, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_70499C7B_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 0c16039d99caf6a48a9d5356c40d6364, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_99F4FE85_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 0c16039d99caf6a48a9d5356c40d6364, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_E0D0D50B_Texture_1:
+        m_Texture: {fileID: 2800000, guid: a224f7b36f1b3554d8a38fa448c89884, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_86F0A61D: 0
+    m_Colors:
+    - Color_8F228BAA: {r: 0.8603976, g: 0.8603976, b: 0.8603976, a: 1}
