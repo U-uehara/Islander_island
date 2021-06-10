@@ -292,8 +292,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 149488591}
-  m_LocalRotation: {x: -0.00023815874, y: 0.86682075, z: -0.0049714632, w: -0.49863896}
-  m_LocalPosition: {x: 0.75, y: 1.94, z: 7.81}
+  m_LocalRotation: {x: -0.0016578702, y: 0.8668034, z: -0.0028819374, w: -0.49119943}
+  m_LocalPosition: {x: 6.5, y: 1.94, z: 3.78}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -584,7 +584,7 @@ ParticleSystem:
   cullingMode: 0
   ringBufferMode: 0
   ringBufferLoopRange: {x: 0, y: 1}
-  looping: 1
+  looping: 0
   prewarm: 0
   playOnAwake: 1
   useUnscaledTime: 0
@@ -5354,8 +5354,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 408628107}
-  m_LocalRotation: {x: -0.0016578691, y: 0.8668034, z: -0.0028819384, w: -0.49863896}
-  m_LocalPosition: {x: 6.5, y: 1.94, z: 3.78}
+  m_LocalRotation: {x: -0.0048496337, y: 0.8709912, z: -0.008599339, w: -0.49119943}
+  m_LocalPosition: {x: 6.5, y: 2.0400004, z: 3.9300234}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1464642167}
@@ -5666,7 +5666,7 @@ ParticleSystem:
   cullingMode: 0
   ringBufferMode: 0
   ringBufferLoopRange: {x: 0, y: 1}
-  looping: 1
+  looping: 0
   prewarm: 0
   playOnAwake: 1
   useUnscaledTime: 0
@@ -10544,7 +10544,7 @@ ParticleSystem:
   cullingMode: 0
   ringBufferMode: 0
   ringBufferLoopRange: {x: 0, y: 1}
-  looping: 1
+  looping: 0
   prewarm: 0
   playOnAwake: 1
   useUnscaledTime: 0
@@ -15302,6 +15302,8 @@ PlayableDirector:
     value: {fileID: 149488597}
   - key: {fileID: 2696595567819221615, guid: 0309eadaee3ea91419f363c4ee775c35, type: 2}
     value: {fileID: 509425313}
+  - key: {fileID: 8962718215313471645, guid: 0309eadaee3ea91419f363c4ee775c35, type: 2}
+    value: {fileID: 971922432}
   m_ExposedReferences:
     m_References:
     - 5f056ee5a070180469bf7b8772a70754: {fileID: 1892238683}
@@ -20184,7 +20186,7 @@ ParticleSystem:
   cullingMode: 0
   ringBufferMode: 0
   ringBufferLoopRange: {x: 0, y: 1}
-  looping: 1
+  looping: 0
   prewarm: 0
   playOnAwake: 1
   useUnscaledTime: 0
@@ -30001,7 +30003,7 @@ ParticleSystem:
   cullingMode: 0
   ringBufferMode: 0
   ringBufferLoopRange: {x: 0, y: 1}
-  looping: 1
+  looping: 0
   prewarm: 0
   playOnAwake: 1
   useUnscaledTime: 0
@@ -34822,7 +34824,7 @@ ParticleSystem:
   cullingMode: 0
   ringBufferMode: 0
   ringBufferLoopRange: {x: 0, y: 1}
-  looping: 1
+  looping: 0
   prewarm: 0
   playOnAwake: 1
   useUnscaledTime: 0
@@ -39820,7 +39822,7 @@ ParticleSystem:
   cullingMode: 0
   ringBufferMode: 0
   ringBufferLoopRange: {x: 0, y: 1}
-  looping: 1
+  looping: 0
   prewarm: 0
   playOnAwake: 1
   useUnscaledTime: 0
@@ -44726,7 +44728,7 @@ ParticleSystem:
   cullingMode: 0
   ringBufferMode: 0
   ringBufferLoopRange: {x: 0, y: 1}
-  looping: 1
+  looping: 0
   prewarm: 0
   playOnAwake: 1
   useUnscaledTime: 0
@@ -49631,7 +49633,7 @@ ParticleSystem:
   cullingMode: 0
   ringBufferMode: 0
   ringBufferLoopRange: {x: 0, y: 1}
-  looping: 1
+  looping: 0
   prewarm: 0
   playOnAwake: 1
   useUnscaledTime: 0
@@ -61627,7 +61629,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1892238682}
-  m_LocalRotation: {x: -0.00027443032, y: 0.9988381, z: -0.0057286154, w: -0.047849506}
+  m_LocalRotation: {x: -0.00027443044, y: 0.9988381, z: -0.0057286206, w: -0.047849502}
   m_LocalPosition: {x: 0.75, y: 1.94, z: 7.81}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -61745,7 +61747,7 @@ ParticleSystem:
   cullingMode: 0
   ringBufferMode: 0
   ringBufferLoopRange: {x: 0, y: 1}
-  looping: 1
+  looping: 0
   prewarm: 0
   playOnAwake: 1
   useUnscaledTime: 0
@@ -71387,7 +71389,7 @@ ParticleSystem:
   cullingMode: 0
   ringBufferMode: 0
   ringBufferLoopRange: {x: 0, y: 1}
-  looping: 1
+  looping: 0
   prewarm: 0
   playOnAwake: 1
   useUnscaledTime: 0
