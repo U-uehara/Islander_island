@@ -4769,7 +4769,7 @@ ParticleSystem:
         m_PreInfinity: 2
         m_PostInfinity: 2
         m_RotationOrder: 4
-    vectorLabel0_1: Silhouete Tiling
+    vectorLabel0_1: Silhouete Tiling Y
     vector0_2:
       serializedVersion: 2
       minMaxState: 0
@@ -4823,7 +4823,7 @@ ParticleSystem:
         m_PreInfinity: 2
         m_PostInfinity: 2
         m_RotationOrder: 4
-    vectorLabel0_2: Silhouete Offset
+    vectorLabel0_2: Silhouete Offset Y
     vector0_3:
       serializedVersion: 2
       minMaxState: 0
