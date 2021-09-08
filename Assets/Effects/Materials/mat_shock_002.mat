@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: mat_shock_001
+  m_Name: mat_shock_002
   m_Shader: {fileID: -6465566751694194690, guid: 5e33277ab9b3514428c61dfe2cf8c43a,
     type: 3}
   m_ShaderKeywords: 
@@ -21,7 +21,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - Texture2D_F7606D09:
-        m_Texture: {fileID: 2800000, guid: 4e3c749c488505942b3d3a3ff2f80f34, type: 3}
+        m_Texture: {fileID: 2800000, guid: 6ba2d6ee862908c44b7cc51d331133b5, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SampleTexture2D_77EAD77C_Texture_1:
