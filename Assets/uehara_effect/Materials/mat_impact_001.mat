@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: mat_impact_001
+  m_Shader: {fileID: -6465566751694194690, guid: 393bfdd25b0dc20489b1105df57857cc,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _SampleTexture2D_30F02DD2_Texture_1:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_6220890_Texture_1:
+        m_Texture: {fileID: 2800000, guid: c1b5028c16666dc42a6a8b68a25c0628, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_6C946EDA_Texture_1:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_B037DA06_Texture_1:
+        m_Texture: {fileID: 2800000, guid: b583c9e6dca455f428d309eef39c296e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_FDC960C7_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 4621e606eded7c74dab288893a96cc37, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_52C1B89C: 3.02
+    m_Colors:
+    - Color_7D51D400: {r: 170.89003, g: 170.89003, b: 170.89003, a: 0}
+    - Color_A7DB3965: {r: 2.670157, g: 2.3804703, b: 0.642349, a: 0}
+    - Vector2_A8B65488: {r: 1, g: 1, b: 0, a: 0}
+    - Vector2_D964271A: {r: 0, g: -1, b: 0, a: 0}
