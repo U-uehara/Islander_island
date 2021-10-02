@@ -42,3 +42,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Effect
+    uniqueID: 2466851595
+    locked: 0
+  - name: Sphere
+    uniqueID: 3420127819
+    locked: 0
