@@ -272,7 +272,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 119757704}
-  m_LocalRotation: {x: 0.14222224, y: 0.008599461, z: -0.0012356427, w: 0.98979664}
+  m_LocalRotation: {x: 0.14222224, y: 0.008599471, z: -0.0012356441, w: 0.98979664}
   m_LocalPosition: {x: -0.33, y: 3.01, z: -3.29}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -453,7 +453,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 149488591}
-  m_LocalRotation: {x: 0.017670374, y: 0.79287344, z: -0.023017056, w: 0.60869515}
+  m_LocalRotation: {x: 0.01984894, y: 0.7291477, z: -0.021167098, w: 0.683741}
   m_LocalPosition: {x: -6.51, y: 1.41, z: 4.8}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
@@ -600,7 +600,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 157055014}
-  m_LocalRotation: {x: 0.109253645, y: -0.35758683, z: 0.042166576, w: 0.92650807}
+  m_LocalRotation: {x: 0.10457562, y: -0.44699687, z: 0.05270979, w: 0.88683677}
   m_LocalPosition: {x: 6.31, y: 3.97, z: -0.93}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -667,7 +667,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 408628107}
-  m_LocalRotation: {x: 0.026063457, y: -0.62384903, z: 0.020823486, w: 0.7808325}
+  m_LocalRotation: {x: 0.027115444, y: -0.58221734, z: 0.019433869, w: 0.81234854}
   m_LocalPosition: {x: 5.23, y: 1.7, z: -0.27}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -8484,7 +8484,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1892238682}
-  m_LocalRotation: {x: 0.017670374, y: 0.79287344, z: -0.023017056, w: 0.60869515}
+  m_LocalRotation: {x: 0.01984894, y: 0.7291477, z: -0.021167098, w: 0.683741}
   m_LocalPosition: {x: -6.51, y: 1.41, z: 4.8}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -8771,6 +8771,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: impact_root
+      objectReference: {fileID: 0}
+    - target: {fileID: 7062429901824006316, guid: 9aaa6db6ccd794840a90eee5210dfb20,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7062429901824006319, guid: 9aaa6db6ccd794840a90eee5210dfb20,
         type: 3}
