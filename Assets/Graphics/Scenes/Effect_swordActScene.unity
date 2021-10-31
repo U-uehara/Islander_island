@@ -98,7 +98,7 @@ LightmapSettings:
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
   m_LightingDataAsset: {fileID: 0}
-  m_UseShadowmask: 0
+  m_UseShadowmask: 1
 --- !u!196 &4
 NavMeshSettings:
   serializedVersion: 2
@@ -24310,7 +24310,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!199 &500056272
 ParticleSystemRenderer:
   serializedVersion: 6
@@ -58700,7 +58700,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!108 &1858773680
 Light:
   m_ObjectHideFlags: 0
@@ -68554,7 +68554,7 @@ PrefabInstance:
     - target: {fileID: 4458436484698560181, guid: 79a7b396b677218469d74f75a59ee58d,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4458436484698560182, guid: 79a7b396b677218469d74f75a59ee58d,
         type: 3}
@@ -82943,7 +82943,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!199 &7062429901142595579
 ParticleSystemRenderer:
   serializedVersion: 6
